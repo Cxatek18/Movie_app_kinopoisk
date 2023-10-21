@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="text_redirect_films_list">Вернуться к списку фильмов</string>
+</resources>
